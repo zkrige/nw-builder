@@ -1,5 +1,31 @@
 # Changelog
 
+## [0.4.0](https://github.com/zkrige/nw-builder/compare/@nwutils/getter-v0.3.1...@nwutils/getter-v0.4.0) (2026-09-26)
+
+
+### Features
+
+* **getter:** verify community ffmpeg shasum ([#1661](https://github.com/zkrige/nw-builder/issues/1661)) ([3614cdf](https://github.com/zkrige/nw-builder/commit/3614cdfe16071ca5fced858a005ba8aba165ee9a))
+
+
+### Bug Fixes
+
+* update package.json URLs ([2038ded](https://github.com/zkrige/nw-builder/commit/2038ded45f9b400ead698e91031ae8985a35d8ea))
+
+
+### Chores
+
+* **ci:** create one Release Please pull request instead of one per package ([05c45ad](https://github.com/zkrige/nw-builder/commit/05c45ad83ccfec47b4f1551fe6103b19c7143581))
+* **ci:** remove eslint packages ([#1663](https://github.com/zkrige/nw-builder/issues/1663)) ([56cef09](https://github.com/zkrige/nw-builder/commit/56cef099dbaa715627d79daf202e17bf5145839d))
+* **ci:** simplify monorepo configuration ([#1646](https://github.com/zkrige/nw-builder/issues/1646)) ([1117509](https://github.com/zkrige/nw-builder/commit/11175097906ae40a9562e0652f59207a3c782c4a))
+* **docs:** update package info ([f1d154c](https://github.com/zkrige/nw-builder/commit/f1d154c70df2cdb6e21153699f8b50f32d91912c))
+* **main:** release @nwutils/getter 0.3.0 ([#1664](https://github.com/zkrige/nw-builder/issues/1664)) ([315617f](https://github.com/zkrige/nw-builder/commit/315617fb910a2b5082d84cbd386f7121bbc4e671))
+* **main:** release @nwutils/getter 0.3.1 ([#1672](https://github.com/zkrige/nw-builder/issues/1672)) ([5a1c26f](https://github.com/zkrige/nw-builder/commit/5a1c26f4e691495294e32a7f8e62e931afb56354))
+* migrate to monorepo ([#1638](https://github.com/zkrige/nw-builder/issues/1638)) ([8b15dd5](https://github.com/zkrige/nw-builder/commit/8b15dd586f04b45fbc8e09ee6b50d25d0a5999aa))
+* refactor build logic into @nwutils/builder ([#1647](https://github.com/zkrige/nw-builder/issues/1647)) ([a952f84](https://github.com/zkrige/nw-builder/commit/a952f84a810b60359d61e5edcdd09f290bc57b12))
+* release main ([#1649](https://github.com/zkrige/nw-builder/issues/1649)) ([40cb724](https://github.com/zkrige/nw-builder/commit/40cb7249ce5f7f509e20a5c0fb0059162d62a7b5))
+* release main ([#1651](https://github.com/zkrige/nw-builder/issues/1651)) ([460c86d](https://github.com/zkrige/nw-builder/commit/460c86d2958b678e8bdb914ac304cd3efbfa192f))
+
 ## [0.3.1](https://github.com/nwutils/nw-builder/compare/@nwutils/getter-v0.3.0...@nwutils/getter-v0.3.1) (2026-09-17)
 
 
